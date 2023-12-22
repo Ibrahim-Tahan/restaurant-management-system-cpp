@@ -1,0 +1,10 @@
+1:BigMac,Fries,Cola,33000LBP.
+2:Bigtasty,McNuggets,Cola,45000LBP.
+3:Filet-O-Fish,Side_Salad,Water,32000LBP.
+4:McChicken,Fries,Fanta,33000LBP.
+5:SpicyMcChicken,SpicyMcNuggets,Cola,40000LBP.
+6:Grand_Chicken_Special,McWings,Cola,50000LBP.
+7:DoubleCheese,Mozzarella_Sticks,Sprite,30000LBP.
+8:Hamburger,Fries,juice,25000LBP.
+9:ChickenMac,McBites,Diet_cola,36000LBP.
+10:McRoyal,Fries,Sprite,39000LBP.
